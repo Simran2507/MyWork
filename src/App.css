@@ -1,0 +1,530 @@
+
+    
+  /* .App .overlap-5 {
+    height: 461px;
+    left: 67px;
+    position: absolute;
+    top: 859px;
+    width: 919px;
+  }
+  
+  .App .overlap-6 {
+    height: 461px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 919px;
+  }
+  
+  .App .zam-nungaray {
+    height: 322px;
+    left: 615px;
+    object-fit: cover;
+    position: absolute;
+    top: 139px;
+    width: 304px;
+  }
+  
+  .App .philipp-arlt {
+    height: 322px;
+    left: 279px;
+    object-fit: cover;
+    position: absolute;
+    top: 139px;
+    width: 310px;
+  }
+  
+  .App .lorem-ipsum-dolor-2 {
+    color: #000000;
+    font-family: "Syne", Helvetica;
+    font-size: 90px;
+    font-weight: 600;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 689px;
+  }
+  
+  .App .text-wrapper-10 {
+    color: #000000;
+    font-family: "Syne", Helvetica;
+    font-size: 90px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .App .apparel {
+    color: #000000;
+    font-family: "Work Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 139px;
+    white-space: nowrap;
+  }
+  
+  .App .text-wrapper-11 {
+    color: #000000;
+    font-family: "Work Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .App .overlap-group-wrapper {
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 95px;
+    width: 659px;
+  }
+  
+  .App .line-6 {
+    height: 1px;
+    left: 11px;
+    position: absolute;
+    top: 11px;
+    width: 648px;
+  }
+  
+  .App .star-4 {
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 22px;
+  }
+  
+  .App .vector-wrapper {
+    background-color: #161615;
+    height: 45px;
+    left: 544px;
+    position: absolute;
+    top: 416px;
+    width: 45px;
+  }
+  
+  .App .vector-5 {
+    height: 15px;
+    left: 14px;
+    position: absolute;
+    top: 15px;
+    width: 15px;
+  }
+  
+  .App .secondary-button {
+    background-color: #161615;
+    height: 45px;
+    left: 874px;
+    position: absolute;
+    top: 416px;
+    width: 45px;
+  }
+  
+  .App .accessories {
+    color: #000000;
+    font-family: "Syne", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 183px;
+    white-space: nowrap;
+  }
+  
+  .App .text-wrapper-12 {
+    color: #000000;
+    font-family: "Syne", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .App .best-sellers {
+    color: #000000;
+    font-family: "Work Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 234px;
+    white-space: nowrap;
+  }
+  
+  .App .element-off {
+    color: #000000;
+    font-family: "Work Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 278px;
+    white-space: nowrap;
+  }
+  
+  .App .philipp-arlt-2 {
+    height: 322px;
+    left: 1343px;
+    object-fit: cover;
+    position: absolute;
+    top: 998px;
+    width: 304px;
+  }
+  
+  .App .copyright-all-wrapper {
+    background-color: #000000;
+    height: 66px;
+    left: -9px;
+    position: absolute;
+    top: 2082px;
+    width: 1455px;
+  }
+  
+  .App .copyright-all {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 610px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 23px;
+  }
+  
+  .App .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .App .overlap-7 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64e81f0ec313359a0ace110f/releases/64e8204f7704051b825b4c6a/img/18591063-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 520px;
+    left: 0;
+    position: absolute;
+    top: 1562px;
+    width: 1440px;
+  }
+  
+  .App .overlap-8 {
+    height: 69px;
+    left: 103px;
+    position: absolute;
+    top: 81px;
+    width: 385px;
+  }
+  
+  .App .get-news-about {
+    color: #ffffff80;
+    font-family: "Work Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 17px;
+    width: 337px;
+  }
+  
+  .App .text-wrapper-14 {
+    color: #ffffff80;
+    font-family: "Work Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .App .newslleter {
+    color: #ffffff80;
+    font-family: "Syne", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 385px;
+  }
+  
+  .App .text-wrapper-15 {
+    color: #ffffff80;
+    font-family: "Syne", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .App .NAME {
+    color: #ffffff80;
+    font-family: "Work Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 630px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 81px;
+    width: 303px;
+  }
+  
+  .App .EMAIL {
+    color: #ffffff80;
+    font-family: "Work Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 630px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 146px;
+    width: 303px;
+  }
+  
+  .App .MESSAGE {
+    color: #ffffff80;
+    font-family: "Work Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 630px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 215px;
+    width: 303px;
+  }
+  
+  .App .overlap-9 {
+    height: 259px;
+    left: 90px;
+    position: absolute;
+    top: 260px;
+    width: 1255px;
+  }
+  
+  .App .lorem-ipsum-dolor-3 {
+    -webkit-text-stroke: 1px #ffffff;
+    color: #ffffff;
+    font-family: "Syne", Helvetica;
+    font-size: 135px;
+    font-weight: 800;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 102.6px;
+    position: absolute;
+    top: 23px;
+    width: 1159px;
+  }
+  
+  .App .button {
+    height: 181px;
+    left: 1072px;
+    position: absolute;
+    top: 0;
+    width: 183px;
+  }
+  
+  .App .SEND-wrapper {
+    border-radius: 90.5px;
+    height: 181px;
+    position: relative;
+    width: 181px;
+  }
+  
+  .App .SEND {
+    color: #f07e15;
+    font-family: "Work Sans", Helvetica;
+    font-size: 26px;
+    font-weight: 400;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 82px;
+    white-space: nowrap;
+  }
+  
+  .App .text-wrapper-16 {
+    color: #f07e15;
+    font-family: "Work Sans", Helvetica;
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .App .line-7 {
+    height: 1px;
+    left: 616px;
+    position: absolute;
+    top: 112px;
+    width: 558px;
+  }
+  
+  .App .line-8 {
+    height: 1px;
+    left: 616px;
+    position: absolute;
+    top: 177px;
+    width: 558px;
+  }
+  
+  .App .line-9 {
+    height: 1px;
+    left: 616px;
+    position: absolute;
+    top: 246px;
+    width: 558px;
+  }
+  
+  .App .arrow {
+    height: 1px;
+    left: 1281px;
+    position: absolute;
+    top: 925px;
+    width: 55px;
+  }
+  
+  .App .arrow-2 {
+    height: 1px;
+    left: 1178px;
+    position: absolute;
+    top: 925px;
+    width: 55px;
+  }
+  
+  .App .overlap-10 {
+    height: 322px;
+    left: 1012px;
+    position: absolute;
+    top: 998px;
+    width: 305px;
+  }
+  
+  .App .img-wrapper {
+    background-color: #161615;
+    height: 45px;
+    left: 260px;
+    position: absolute;
+    top: 277px;
+    width: 45px;
+  }
+  
+  .App .malicki-m-beser {
+    height: 322px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 305px;
+  }
+  
+  .App .text-field {
+    height: 125px;
+    left: 346px;
+    position: absolute;
+    top: 1332px;
+    width: 310px;
+  }
+  
+  .App .frame-3 {
+    height: 125px;
+    position: relative;
+  }
+  
+  .App .FLORIDA-JACKET {
+    color: #000000;
+    font-family: "Syne", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    left: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 258px;
+  }
+  
+  .App .suffered-alteration {
+    color: #16161580;
+    font-family: "Work Sans", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 37px;
+    width: 303px;
+  }
+  
+  .App .text-wrapper-17 {
+    color: #16161580;
+    font-family: "Work Sans", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .App .element-2 {
+    color: #000000;
+    font-family: "Syne", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    left: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 94px;
+    white-space: nowrap;
+    width: 258px;
+  }
+  
+  .App .frame-wrapper {
+    height: 125px;
+    left: 682px;
+    position: absolute;
+    top: 1332px;
+    width: 310px;
+  }
+  
+  .App .div-wrapper {
+    height: 125px;
+    left: 1012px;
+    position: absolute;
+    top: 1332px;
+    width: 310px;
+  }
+  
+  .App .text-field-2 {
+    height: 125px;
+    left: 1343px;
+    position: absolute;
+    top: 1332px;
+    width: 310px;
+  } */
